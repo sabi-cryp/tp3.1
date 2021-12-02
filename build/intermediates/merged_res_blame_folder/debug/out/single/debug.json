@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable_icecream_circle.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable\\icecream_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-xhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-xxhdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_map.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-hdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_map.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-mdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-hdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-xhdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-xhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable_froyo_circle.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable\\froyo_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_date_picker.xml.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\layout\\fragment_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_status_info.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-xhdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_status_info.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-mdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_status_info.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-xxhdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-xxhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_status_info.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-hdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable_donut_circle.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable\\donut_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-mdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable-mdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\lenovo\\android-fundamentals-exycodelabs\\DroidCafeOptions\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]
